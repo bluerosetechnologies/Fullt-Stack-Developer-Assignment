@@ -70,6 +70,8 @@ For all coding challenges, you will need a web host to showcase your working dem
 - Your code should be uploaded on GitHub/ BitBucket or any Git Repository with Public access.
 - Use of SCSS/LESS will have extra points.
 - Unit tests is required
+- API Collection should be available
+- Follow security standards. 
 
 **Coding Guidelines**
 - Before you start with the assignment, please note down our common minimum requirements.
